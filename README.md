@@ -1,4 +1,4 @@
-register-app
+retail-devops-project
 <br>
 Test93
 
